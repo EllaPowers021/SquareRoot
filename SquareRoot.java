@@ -1,6 +1,6 @@
 /*
  * Programmer:Ella Powers
- * Date:October 7, 2020
+ * Date:October 8, 2020
  * Purpose:Answer a square root equation but if previous number is invalid, continually ask for input
  */
 
